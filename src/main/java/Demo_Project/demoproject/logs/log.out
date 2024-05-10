@@ -1,0 +1,141 @@
+2024-02-14 15:02:845 INFO  ManageBrowser :30 - launching chrome browser
+2024-02-14 15:02:111 INFO  ManageBrowser :30 - launching chrome browser
+2024-02-15 10:02:704 INFO  ManageBrowser :30 - launching chrome browser
+2024-02-15 10:02:701 INFO  ManageBrowser :30 - launching chrome browser
+2024-02-15 10:02:898 INFO  ManageBrowser :30 - launching chrome browser
+2024-02-15 10:02:961 INFO  ManageBrowser :30 - launching chrome browser
+2024-02-15 11:02:380 INFO  ManageBrowser :30 - launching chrome browser
+2024-02-15 11:02:527 INFO  ManageBrowser :30 - launching chrome browser
+2024-02-15 11:02:701 INFO  ManageBrowser :30 - launching chrome browser
+2024-02-15 11:02:353 INFO  ManageBrowser :30 - launching chrome browser
+2024-02-15 11:02:404 INFO  ManageBrowser :30 - launching chrome browser
+2024-02-15 11:02:849 INFO  ManageBrowser :30 - launching chrome browser
+2024-02-15 11:02:853 INFO  ManageBrowser :30 - launching chrome browser
+2024-02-15 11:02:975 INFO  ManageBrowser :30 - launching chrome browser
+2024-02-15 17:02:256 INFO  ManageBrowser :30 - launching chrome browser
+2024-02-16 09:02:479 INFO  ManageBrowser :30 - launching chrome browser
+2024-02-16 09:02:384 INFO  ManageBrowser :30 - launching chrome browser
+2024-02-16 09:02:57 INFO  ManageBrowser :30 - launching chrome browser
+2024-02-16 12:02:941 INFO  ManageBrowser :30 - launching chrome browser
+2024-02-16 12:02:324 INFO  ManageBrowser :30 - launching chrome browser
+2024-02-16 12:02:540 INFO  ManageBrowser :30 - launching chrome browser
+2024-02-16 12:02:227 INFO  ManageBrowser :30 - launching chrome browser
+2024-02-16 12:02:818 INFO  ManageBrowser :30 - launching chrome browser
+2024-02-16 12:02:706 INFO  ManageBrowser :30 - launching chrome browser
+2024-02-16 12:02:568 INFO  ManageBrowser :30 - launching chrome browser
+2024-02-16 12:02:320 INFO  ManageBrowser :30 - launching chrome browser
+2024-02-16 12:02:622 INFO  ManageBrowser :30 - launching chrome browser
+2024-02-16 14:02:372 INFO  ManageBrowser :30 - launching chrome browser
+2024-02-16 14:02:360 INFO  ManageBrowser :30 - launching chrome browser
+2024-02-16 14:02:129 INFO  ManageBrowser :30 - launching chrome browser
+2024-02-16 14:02:413 INFO  ManageBrowser :30 - launching chrome browser
+2024-02-16 15:02:194 INFO  ManageBrowser :32 - launching chrome browser
+2024-02-16 15:02:669 INFO  ManageBrowser :32 - launching chrome browser
+2024-02-16 16:02:168 INFO  ManageBrowser :32 - launching chrome browser
+2024-02-16 16:02:375 INFO  ManageBrowser :32 - launching chrome browser
+2024-02-16 16:02:276 INFO  ManageBrowser :32 - launching chrome browser
+2024-02-16 16:02:516 INFO  ManageBrowser :32 - launching chrome browser
+2024-02-16 16:02:360 INFO  ManageBrowser :32 - launching chrome browser
+2024-02-16 16:02:285 INFO  ManageBrowser :32 - launching chrome browser
+2024-02-16 16:02:599 INFO  ManageBrowser :32 - launching chrome browser
+2024-02-16 16:02:91 INFO  ManageBrowser :32 - launching chrome browser
+2024-02-16 16:02:258 INFO  ManageBrowser :32 - launching chrome browser
+2024-02-16 16:02:773 INFO  ManageBrowser :32 - launching chrome browser
+2024-02-16 16:02:989 INFO  ManageBrowser :32 - launching chrome browser
+2024-02-16 16:02:718 INFO  ManageBrowser :32 - launching chrome browser
+2024-02-16 16:02:871 INFO  ManageBrowser :32 - launching chrome browser
+2024-02-19 16:02:246 INFO  ManageBrowser :32 - launching chrome browser
+2024-02-19 16:02:828 INFO  ManageBrowser :32 - launching chrome browser
+2024-02-19 16:02:329 INFO  ManageBrowser :32 - launching chrome browser
+2024-02-19 16:02:774 INFO  ManageBrowser :32 - launching chrome browser
+2024-02-19 17:02:347 INFO  ManageBrowser :32 - launching chrome browser
+2024-02-19 17:02:718 INFO  ManageBrowser :32 - launching chrome browser
+2024-02-19 17:02:254 INFO  ContactPage :22 - Click on cookies[[ChromeDriver: chrome on windows (56e33d8ce75b7a2d2f30a28fb02e9b34)] -> xpath: /html/body/div[4]/div/div/div[2]/div[2]/div[2]/div[1]/button/span]
+2024-02-19 17:02:204 INFO  ManageBrowser :32 - launching chrome browser
+2024-02-19 17:02:165 INFO  ContactPage :22 - Click on cookies[[ChromeDriver: chrome on windows (ef2749c5b7ab1424d884090a8391857a)] -> xpath: /html/body/div[4]/div/div/div[2]/div[2]/div[2]/div[1]/button/span]
+2024-02-20 09:02:32 INFO  ManageBrowser :32 - launching chrome browser
+2024-02-20 09:02:113 INFO  ContactPage :22 - Click on cookies[[ChromeDriver: chrome on windows (e864e4a7e277ca64388c94957c93801c)] -> xpath: /html/body/div[4]/div/div/div[2]/div[2]/div[2]/div[1]/button/span]
+2024-02-21 09:02:304 INFO  ManageBrowser :32 - launching chrome browser
+2024-02-21 09:02:286 INFO  ContactPage :22 - Click on cookies[[ChromeDriver: chrome on windows (b93de32f9f8ad625954de1cb08ba0969)] -> xpath: /html/body/div[4]/div/div/div[2]/div[2]/div[2]/div[1]/button/span]
+2024-02-21 17:02:626 INFO  ManageBrowser :32 - launching chrome browser
+2024-02-21 17:02:213 INFO  ContactPage :30 - Click on cookies[[ChromeDriver: chrome on windows (9d91e2788156fec408f7a3d950732bcc)] -> xpath: /html/body/div[4]/div/div/div[2]/div[2]/div[2]/div[1]/button/span]
+2024-02-21 17:02:95 INFO  ManageBrowser :32 - launching chrome browser
+2024-02-21 17:02:797 INFO  ContactPage :30 - Click on cookies[[ChromeDriver: chrome on windows (be75736950f359ed6adca240a9673313)] -> xpath: /html/body/div[4]/div/div/div[2]/div[2]/div[2]/div[1]/button/span]
+2024-02-23 15:02:307 INFO  ManageBrowser :32 - launching chrome browser
+2024-02-23 15:02:506 INFO  ContactPage :30 - Click on cookies[[ChromeDriver: chrome on windows (089cff1dc9835b45fea2286de4640b4d)] -> xpath: /html/body/div[4]/div/div/div[2]/div[2]/div[2]/div[1]/button/span]
+2024-02-23 15:02:597 INFO  ManageBrowser :32 - launching chrome browser
+2024-02-23 15:02:194 INFO  ContactPage :30 - Click on cookies[[ChromeDriver: chrome on windows (9e2939cd19106c355495184ce490619c)] -> xpath: /html/body/div[4]/div/div/div[2]/div[2]/div[2]/div[1]/button/span]
+2024-02-26 16:02:138 INFO  ManageBrowser :32 - launching chrome browser
+2024-02-26 16:02:353 INFO  ContactPage :64 - Click on cookies[[ChromeDriver: chrome on windows (6147c45017cdcc41882062248e9e1a81)] -> xpath: /html/body/div[4]/div/div/div[2]/div[2]/div[2]/div[1]/button/span]
+2024-02-26 16:02:857 INFO  ManageBrowser :32 - launching chrome browser
+2024-02-26 16:02:913 INFO  ContactPage :64 - Click on cookies[[ChromeDriver: chrome on windows (593b920e3ac6df43858425a1f2b7b3a8)] -> xpath: /html/body/div[4]/div/div/div[2]/div[2]/div[2]/div[1]/button/span]
+2024-02-26 16:02:400 INFO  ManageBrowser :32 - launching chrome browser
+2024-02-26 16:02:592 INFO  ContactPage :64 - Click on cookies[[ChromeDriver: chrome on windows (d6fdba152f98130d41f61b9533442c04)] -> xpath: /html/body/div[4]/div/div/div[2]/div[2]/div[2]/div[1]/button/span]
+2024-02-26 16:02:641 INFO  ManageBrowser :32 - launching chrome browser
+2024-02-26 16:02:637 INFO  ContactPage :64 - Click on cookies[[ChromeDriver: chrome on windows (b14a00f0a7802da01955c1d31553e956)] -> xpath: /html/body/div[4]/div/div/div[2]/div[2]/div[2]/div[1]/button/span]
+2024-02-26 16:02:893 INFO  ManageBrowser :32 - launching chrome browser
+2024-02-26 16:02:932 INFO  ContactPage :64 - Click on cookies[[ChromeDriver: chrome on windows (a7213adaaa40af80fbf5401c34fca098)] -> xpath: /html/body/div[4]/div/div/div[2]/div[2]/div[2]/div[1]/button/span]
+2024-02-26 17:02:792 INFO  ManageBrowser :32 - launching chrome browser
+2024-02-26 17:02:942 INFO  ContactPage :64 - Click on cookies[[ChromeDriver: chrome on windows (2b4699a6b77844f41608d54c0d135457)] -> xpath: /html/body/div[4]/div/div/div[2]/div[2]/div[2]/div[1]/button/span]
+2024-02-26 17:02:434 INFO  ManageBrowser :32 - launching chrome browser
+2024-02-26 17:02:835 INFO  ContactPage :64 - Click on cookies[[ChromeDriver: chrome on windows (e8565782f9d4427a447b70f8a1753e31)] -> xpath: /html/body/div[4]/div/div/div[2]/div[2]/div[2]/div[1]/button/span]
+2024-02-26 17:02:556 INFO  ManageBrowser :32 - launching chrome browser
+2024-02-26 17:02:368 INFO  ContactPage :64 - Click on cookies[[ChromeDriver: chrome on windows (3a3c05675e86f459e2f9a7a4cca72bb8)] -> xpath: /html/body/div[4]/div/div/div[2]/div[2]/div[2]/div[1]/button/span]
+2024-02-26 17:02:837 INFO  ManageBrowser :32 - launching chrome browser
+2024-02-26 17:02:968 INFO  ContactPage :64 - Click on cookies[[ChromeDriver: chrome on windows (1c416270be6d64c996c8fd8059a33fd1)] -> xpath: /html/body/div[4]/div/div/div[2]/div[2]/div[2]/div[1]/button/span]
+2024-02-26 17:02:472 INFO  ManageBrowser :32 - launching chrome browser
+2024-02-26 17:02:797 INFO  ContactPage :64 - Click on cookies[[ChromeDriver: chrome on windows (3e31f9dfeb04829d4b1bee403844d5e4)] -> xpath: /html/body/div[4]/div/div/div[2]/div[2]/div[2]/div[1]/button/span]
+2024-02-26 21:02:872 INFO  ManageBrowser :32 - launching chrome browser
+2024-02-26 21:02:814 INFO  ContactPage :64 - Click on cookies[[ChromeDriver: chrome on windows (9fc69600ad7db40f4040175e90bbb51f)] -> xpath: /html/body/div[4]/div/div/div[2]/div[2]/div[2]/div[1]/button/span]
+2024-02-26 21:02:653 INFO  ManageBrowser :32 - launching chrome browser
+2024-02-26 21:02:149 INFO  ContactPage :64 - Click on cookies[[ChromeDriver: chrome on windows (a5555f675ff4c2ac4fd6aaf89ba2a7ad)] -> xpath: /html/body/div[4]/div/div/div[2]/div[2]/div[2]/div[1]/button/span]
+2024-02-26 21:02:169 INFO  ManageBrowser :32 - launching chrome browser
+2024-02-26 21:02:461 INFO  ContactPage :64 - Click on cookies[[ChromeDriver: chrome on windows (81919d89277c25c2ede002c7ce66d329)] -> xpath: /html/body/div[4]/div/div/div[2]/div[2]/div[2]/div[1]/button/span]
+2024-02-26 21:02:386 INFO  ManageBrowser :32 - launching chrome browser
+2024-02-26 21:02:874 INFO  ContactPage :64 - Click on cookies[[ChromeDriver: chrome on windows (ba6d92ea8558abf23ff12df5bc232d2d)] -> xpath: /html/body/div[4]/div/div/div[2]/div[2]/div[2]/div[1]/button/span]
+2024-02-26 21:02:928 INFO  ManageBrowser :32 - launching chrome browser
+2024-02-26 21:02:613 INFO  ContactPage :64 - Click on cookies[[ChromeDriver: chrome on windows (0bb0908bcc60bd2a20d30a57b0217422)] -> xpath: /html/body/div[4]/div/div/div[2]/div[2]/div[2]/div[1]/button/span]
+2024-02-26 21:02:841 INFO  ManageBrowser :32 - launching chrome browser
+2024-02-26 21:02:302 INFO  ContactPage :64 - Click on cookies[[ChromeDriver: chrome on windows (1bb32197f86fc69c3471213dfa9503b9)] -> xpath: /html/body/div[4]/div/div/div[2]/div[2]/div[2]/div[1]/button/span]
+2024-03-06 13:03:658 INFO  ManageBrowser :32 - launching chrome browser
+2024-03-06 13:03:52 INFO  ContactPage :64 - Click on cookies[[ChromeDriver: chrome on windows (4344fd26c02520c98e4d80ec68c72665)] -> xpath: /html/body/div[4]/div/div/div[2]/div[2]/div[2]/div[1]/button/span]
+2024-03-06 13:03:683 INFO  ManageBrowser :32 - launching chrome browser
+2024-03-06 13:03:182 INFO  ContactPage :64 - Click on cookies[[ChromeDriver: chrome on windows (3cd88ea695d7a6ef275237c04b6df7d1)] -> xpath: /html/body/div[4]/div/div/div[2]/div[2]/div[2]/div[1]/button/span]
+2024-03-06 13:03:617 INFO  ManageBrowser :32 - launching chrome browser
+2024-03-06 13:03:952 INFO  ContactPage :64 - Click on cookies[[ChromeDriver: chrome on windows (da1e25ff8a63333a7705a68b3578d45e)] -> xpath: /html/body/div[4]/div/div/div[2]/div[2]/div[2]/div[1]/button/span]
+2024-03-07 13:03:694 INFO  ManageBrowser :32 - launching chrome browser
+2024-03-07 13:03:716 INFO  ContactPage :64 - Click on cookies[[ChromeDriver: chrome on windows (2f748ef1873223630512f29cba82d962)] -> xpath: /html/body/div[4]/div/div/div[2]/div[2]/div[2]/div[1]/button/span]
+2024-03-07 13:03:461 INFO  ManageBrowser :32 - launching chrome browser
+2024-03-07 13:03:642 INFO  ContactPage :64 - Click on cookies[[ChromeDriver: chrome on windows (4dbc238ee0e7d588865b26a7e749c0a0)] -> xpath: /html/body/div[4]/div/div/div[2]/div[2]/div[2]/div[1]/button/span]
+2024-03-07 13:03:546 INFO  ManageBrowser :32 - launching chrome browser
+2024-03-07 13:03:315 INFO  ContactPage :64 - Click on cookies[[ChromeDriver: chrome on windows (ac6235a21d54e03eb39a79a2475283ee)] -> xpath: /html/body/div[4]/div/div/div[2]/div[2]/div[2]/div[1]/button/span]
+2024-03-07 14:03:454 INFO  ManageBrowser :32 - launching chrome browser
+2024-03-07 14:03:807 INFO  ContactPage :64 - Click on cookies[[ChromeDriver: chrome on windows (db37c5a1ccf96c1230ef652dd10b4105)] -> xpath: /html/body/div[4]/div/div/div[2]/div[2]/div[2]/div[1]/button/span]
+2024-03-07 14:03:84 INFO  ManageBrowser :32 - launching chrome browser
+2024-03-07 14:03:354 INFO  ContactPage :64 - Click on cookies[[ChromeDriver: chrome on windows (1f855de7e41e3b7f07bb33216c34c0ff)] -> xpath: /html/body/div[4]/div/div/div[2]/div[2]/div[2]/div[1]/button/span]
+2024-03-07 14:03:411 INFO  ManageBrowser :32 - launching chrome browser
+2024-03-07 14:03:806 INFO  ContactPage :64 - Click on cookies[[ChromeDriver: chrome on windows (bf07081c17f721f3cb484bc638713235)] -> xpath: /html/body/div[4]/div/div/div[2]/div[2]/div[2]/div[1]/button/span]
+2024-03-07 14:03:474 INFO  ManageBrowser :32 - launching chrome browser
+2024-03-07 14:03:493 INFO  ContactPage :64 - Click on cookies[[ChromeDriver: chrome on windows (880f57b79b5d5aeba58acb30ab9ae983)] -> xpath: /html/body/div[4]/div/div/div[2]/div[2]/div[2]/div[1]/button/span]
+2024-03-07 14:03:450 INFO  ManageBrowser :32 - launching chrome browser
+2024-03-07 14:03:710 INFO  ContactPage :64 - Click on cookies[[ChromeDriver: chrome on windows (c2d463d1191c6bcebfcb855157d8d412)] -> xpath: /html/body/div[4]/div/div/div[2]/div[2]/div[2]/div[1]/button/span]
+2024-03-07 14:03:219 INFO  ManageBrowser :32 - launching chrome browser
+2024-03-07 14:03:341 INFO  ContactPage :64 - Click on cookies[[ChromeDriver: chrome on windows (59c99700dd77b360f9cd3cf1e344d6d3)] -> xpath: /html/body/div[4]/div/div/div[2]/div[2]/div[2]/div[1]/button/span]
+2024-03-07 14:03:237 INFO  ManageBrowser :32 - launching chrome browser
+2024-03-07 14:03:285 INFO  ContactPage :64 - Click on cookies[[ChromeDriver: chrome on windows (d09d758a785f710b4b442c26fa18bff0)] -> xpath: /html/body/div[4]/div/div/div[2]/div[2]/div[2]/div[1]/button/span]
+2024-03-07 14:03:207 INFO  ManageBrowser :32 - launching chrome browser
+2024-03-07 14:03:377 INFO  ContactPage :64 - Click on cookies[[ChromeDriver: chrome on windows (2ed3b9c1dbde6a99e1bbf6b84b0208f4)] -> xpath: /html/body/div[4]/div/div/div[2]/div[2]/div[2]/div[1]/button/span]
+2024-03-07 14:03:504 INFO  ManageBrowser :32 - launching chrome browser
+2024-03-07 14:03:396 INFO  ContactPage :64 - Click on cookies[[ChromeDriver: chrome on windows (9cf927f6ce7bfd4399e8829bff2cf231)] -> xpath: /html/body/div[4]/div/div/div[2]/div[2]/div[2]/div[1]/button/span]
+2024-03-11 09:03:658 INFO  ManageBrowser :32 - launching chrome browser
+2024-03-11 09:03:536 INFO  ContactPage :64 - Click on cookies[[ChromeDriver: chrome on windows (551115b5cf0ac4c5bc75694cae39c083)] -> xpath: /html/body/div[4]/div/div/div[2]/div[2]/div[2]/div[1]/button/span]
+2024-03-11 09:03:459 INFO  ManageBrowser :32 - launching chrome browser
+2024-03-11 09:03:686 INFO  ContactPage :64 - Click on cookies[[ChromeDriver: chrome on windows (a9fd8350b72a795afc17e01ffaceb496)] -> xpath: /html/body/div[4]/div/div/div[2]/div[2]/div[2]/div[1]/button/span]
+2024-03-11 09:03:890 INFO  ManageBrowser :32 - launching chrome browser
+2024-03-11 09:03:487 INFO  ContactPage :64 - Click on cookies[[ChromeDriver: chrome on windows (319501025c971a01b440e1de6b01e90a)] -> xpath: /html/body/div[4]/div/div/div[2]/div[2]/div[2]/div[1]/button/span]
+2024-03-13 16:03:320 INFO  ManageBrowser :32 - launching chrome browser
+2024-03-13 16:03:743 INFO  ContactPage :64 - Click on cookies[[ChromeDriver: chrome on windows (2b0d4e4d3aa4899889b365a28b521d93)] -> xpath: /html/body/div[4]/div/div/div[2]/div[2]/div[2]/div[1]/button/span]
+2024-03-13 16:03:836 INFO  ManageBrowser :32 - launching chrome browser
+2024-03-13 16:03:523 INFO  ContactPage :64 - Click on cookies[[ChromeDriver: chrome on windows (9ec52cb05745a325526d285ec90db7dc)] -> xpath: /html/body/div[4]/div/div/div[2]/div[2]/div[2]/div[1]/button/span]
+2024-03-13 16:03:290 INFO  ManageBrowser :32 - launching chrome browser
+2024-03-13 16:03:677 INFO  ContactPage :64 - Click on cookies[[ChromeDriver: chrome on windows (5b3907419df46d8190660117bc736d1d)] -> xpath: /html/body/div[4]/div/div/div[2]/div[2]/div[2]/div[1]/button/span]
